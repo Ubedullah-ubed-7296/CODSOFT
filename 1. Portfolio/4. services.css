@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+
+.service{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.main-service{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    padding-top: 15px;
+    font-size: 2.5rem;
+    margin-top: 80px;
+}
+
+.main-service span{
+    color: #59b2f4;
+}
+
+.ser-1 h2,.ser-2 h2{
+    padding-bottom: 20px;
+    text-align: center;
+    color: #c5c5c5;
+    font-size: 1.7rem;
+}
+
+.ser-1,
+.ser-2{
+    flex-wrap: wrap;
+    padding: 50px;
+    border: 2px solid #0f1111;
+    border-radius: 10px;
+    background-color: #262840;
+    box-shadow: 0 0 8px #262840,
+    0 0 8px #262840,
+    0 0 8px #262840;
+    color: #efefef;
+    height: 14rem;
+    width: 25rem;
+    cursor: pointer;
+    scroll-behavior: smooth;
+    font-size: 0.9rem;
+}
+
+.ser-1:hover, .ser-2:hover{
+    transition: 0.3s ease-in;
+    border: 2px solid  #59b2f4;
+    scroll-behavior: smooth;
+}
+
+.ser-1{
+    margin: 50px 30px;
+}
+
+.ser-2{
+    margin: 50px 30px;
+}
+
+#codedesign{
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 5px;
+}

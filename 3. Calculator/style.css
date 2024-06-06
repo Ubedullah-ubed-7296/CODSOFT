@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    overflow-x: hidden;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: #272424;
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
+}
+
+.text-center{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 1.6rem;
+}
+
+.container{
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    box-shadow: 0px 0px 15px 10px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    padding: 20px 22px;
+}
+
+.button{
+    font-size: 1.5rem;
+    width: 66px;
+    padding: 12px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-weight: 600;
+    color: whitesmoke;
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    padding-left: 50px;
+    width: 262px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+
+.large-width{
+    padding-right: 124px;
+}
+
+#gray-color{
+    background-color: rgb(112, 104, 104);
+}
+
+#orange-color{
+    background-color: orange;
+}
+
+#lytbl-color{
+    background-color: rgb(68, 67, 67);
+}
+
+
+.input {
+    overflow-x: auto;  /* Enable horizontal scrolling */
+    white-space: nowrap;  /* Prevent text wrapping */
+}

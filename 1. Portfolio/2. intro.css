@@ -1,0 +1,34 @@
+.intro{
+    padding-top: 30px;
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    border: 2px solid #0f1111;
+    border-radius: 10px;
+    background-color: #262840;
+    box-shadow: 0 0 8px #262840,
+    0 0 5px #262840,
+    0 0 8px #262840;
+    color: #efefef;
+}
+
+.intro h1{
+    margin: 12px;
+    text-align: center;
+    margin-bottom: 50px;
+    color: whitesmoke;
+    font-size: 2.5rem;
+}
+
+.intro h1 span{
+    color: #59b2f4;
+}
+
+.intro P{
+    margin: 12px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 50px;
+    text-align: center;
+}

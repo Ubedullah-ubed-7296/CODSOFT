@@ -1,0 +1,163 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.landing-page {
+    color: #ffffff;
+    background-color: #b9612e;
+    font-size: 1.3rem;
+    text-align: center;
+    height: 12vh;
+    padding-top: 30px;
+}
+
+#ubedfitness {
+    padding-left: 100px;
+}
+
+body {
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.dark-mode {
+    background-color: rgb(62, 53, 53);
+    color: whitesmoke;
+}
+
+.dark-mode .mode-btn {
+    background-color: rgb(62, 53, 53);
+    color: whitesmoke;
+    border: 2px solid rgb(62, 53, 53);
+}
+
+.mode-btn {
+    font-size: 20px;
+    padding: 0 12px;
+    border: 2px solid white;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+}
+
+.container {
+    max-width: 80vw;
+}
+
+.navbar {
+    display: flex;
+    height: 67px;
+}
+
+.navbar li {
+    list-style: none;
+    margin: 0 12px;
+}
+
+.topleft {
+    width: 50%;
+}
+
+.topright {
+    width: 50%;
+}
+
+.section-class {
+    padding: 30px;
+}
+
+.section-class h1 {
+    font-size: 2rem;
+    color: rgb(180, 118, 87)
+}
+
+.logo {
+    font-size: 1.3rem;
+}
+
+.dumbbellimg {
+    padding-top: 10px;
+    width: 250px;
+}
+
+.topright .gymimg {
+    width: 200px;
+    height: 230px;
+    padding-top: 90px;
+}
+
+.section-class p {
+    /* padding: 0 8vw; */
+    text-align: center;
+}
+
+.box {
+    padding: 8px 0;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid rgb(120, 54, 16);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.box h2 {
+    color: #b9612e;
+    font-size: 2rem;
+    padding: 15px 0;
+}
+
+.highlighted {
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.box ul {
+    list-style: none;
+}
+
+.box ul li {
+    margin: 12px 2px;
+}
+
+.plan-table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-class table {
+    width: 100%;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.section-class table th {
+    width: 23vw;
+    border-bottom: 2px solid black;
+    padding: 15px 0;
+}
+
+.section-class table td {
+    border-bottom: 2px solid black;
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 23px;
+    background-color: #b9612e;
+    color: #ffffff;
+}
+
+footer .sm-icons i {
+    padding: 0 15px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #ffffff;
+}
