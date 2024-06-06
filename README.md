@@ -6,6 +6,8 @@ Developed a personal portfolio page with HTML and CSS. Included sections for a h
 
 Task 2: Landing Page
 Created a landing page using HTML and CSS. Focused on structuring columns, dividing sections, and arranging elements. Ensured proper alignments, padding, and a cohesive color scheme. Emphasized creativity and usability to produce a visually appealing design.
+<a href="https://ubedullah-ubed-7296.github.io/CODSOFT/2. Landing Page" target="_blank">Go Live</a>
 
 Task 3: Calculator
 Built a basic calculator using HTML, CSS, and JavaScript. Designed an interactive interface with buttons for arithmetic operations and a display screen for input/results. Implemented logic for calculations using event listeners and JavaScript functions.
+<a href="https://ubedullah-ubed-7296.github.io/CODSOFT/3. Calculator" target="_blank">Go Live</a>
