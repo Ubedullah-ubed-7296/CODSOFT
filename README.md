@@ -2,6 +2,7 @@ I have completed tasks given for my internship as a Web Developer in CodSoft.
 
 Task 1: Portfolio Page
 Developed a personal portfolio page with HTML and CSS. Included sections for a header, about me, skills, projects, resume download, contact info, and footer. Highlighted my skills, showcased projects, and provided a professional presentation of my experience.
+Go Live: https://ubedullah-ubed-7296.github.io/CODSOFT/1. Portfolio
 
 Task 2: Landing Page
 Created a landing page using HTML and CSS. Focused on structuring columns, dividing sections, and arranging elements. Ensured proper alignments, padding, and a cohesive color scheme. Emphasized creativity and usability to produce a visually appealing design.
